@@ -1,4 +1,4 @@
-import os, urllib2, json, io, gzip, simplejson, sys, urllib, re
+import os, urllib2, io, gzip, sys, urllib, re
 from bs4 import BeautifulSoup
 from StringIO import StringIO
 

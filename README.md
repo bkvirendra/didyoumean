@@ -21,4 +21,4 @@ Requirements :
 ============
 ============
 
-BeautifulSoup
+BeautifulSoup==3.2.1
