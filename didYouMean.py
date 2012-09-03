@@ -30,7 +30,7 @@ def didYouMean(q):
         result = re.sub('[^A-Za-z0-9\s]+', '', result)
         result = re.sub(' +',' ',result)
     except AttributeError:
-        result = -1
+        result = 1
     return result
 
 if __name__ == "__main__":
