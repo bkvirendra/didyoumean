@@ -1,4 +1,11 @@
-import os, urllib2, io, gzip, sys, urllib, re
+import os
+import urllib2
+import io
+import gzip
+import sys
+import urllib
+import re
+
 from bs4 import BeautifulSoup
 from StringIO import StringIO
 
